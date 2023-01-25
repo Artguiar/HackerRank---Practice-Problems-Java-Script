@@ -1,14 +1,21 @@
-# HackerRank Practice Problems Solving JavaScript
+# HackerRank Solutions Problem Solving - Java Script
 
-Caso tenham interesse em conhecer a plataforma:
-https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving
+Repositório contendo as resoluções com explicação detalhada sobre o pensamento por traz do enunciado proposto, para que possamos compreender o que é pedido no exercicio, como também a explicação com detalhes do código proposto para a resolução.
 
-Aqui nesse repositório contém exercícios propostos pela plataforma HackerRank no tópico de preparação
-na seção Problem Solving aonde estarão contidos alguns dos exercícios resolvidos.
+Cada exercício conterá com a resolução de duas maneiras diferentes para que possamos buscar ainda mais conhecimento. A primeira será um codigo escrito de uma forma 
+mais basica, sem usar tantas funcionalidades da linguagem e outro refatorado usando os métodos e todas as facilidades que o JavaScript nos proporciona.
 
-# 1 - https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true
-      Mini-MaxSum
+Inspirado no[HackerRank](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) que é parte do projeto de preparação [Problem Solving](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving) em (https://www.hackerrank.com/).
 
+---
 
-
+## Built With
+* [React.js](https://reactjs.org)
+* [Sass](http://sass-lang.com)
+* [Webpack](https://webpack.js.org)
+* [Normalize.css](https://necolas.github.io/normalize.css)
+* [Drum sound effects](https://github.com/wesbos/JavaScript30)
+* [Digital 7 font](https://www.dafont.com/digital-7.font)
+* [Google Fonts](https://fonts.google.com)
+* [Babel](https://babeljs.io)
 
