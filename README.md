@@ -9,7 +9,7 @@ Inspirado no[HackerRank](https://www.hackerrank.com/challenges/mini-max-sum/prob
 
 ---
 
-## Built With
+## Indice do Repósitório - 
 * [Min-MaxSum](https://github.com/Artguiar/HackerRank---Practice-Problems-Java-Script/tree/main/Mini-MaxSum)
 * [Sass](http://sass-lang.com)
 * [Webpack](https://webpack.js.org)
