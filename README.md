@@ -5,7 +5,7 @@ Repositório contendo as resoluções com explicação detalhada sobre o pensame
 Cada exercício conterá com a resolução de duas maneiras diferentes para que possamos buscar ainda mais conhecimento. A primeira será um codigo escrito de uma forma 
 mais basica, sem usar tantas funcionalidades da linguagem e outro refatorado usando os métodos e todas as facilidades que o JavaScript nos proporciona.
 
-Inspirado no[HackerRank](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) que é parte do projeto de preparação [Problem Solving](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving) em (https://www.hackerrank.com/).
+Inspirado no [HackerRank](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) que é parte do projeto de preparação [Problem Solving](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving) em [HackerRank](https://www.hackerrank.com/).
 
 ---
 
