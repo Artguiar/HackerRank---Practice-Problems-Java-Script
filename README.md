@@ -13,7 +13,7 @@ Inspirado na preparção de certificações [Problem Solving](https://www.hacker
 * [Min-MaxSum](https://github.com/Artguiar/HackerRank---Practice-Problems-Java-Script/tree/main/Mini-MaxSum)
 * [Time-Conversion](https://github.com/Artguiar/HackerRank---Practice-Problems-Java-Script/tree/main/TimeConversion)
 * [Grading-Students](https://github.com/Artguiar/HackerRank---Practice-Problems-Java-Script/tree/main/Grading-Students)
-* [AppleAndOrange](https://necolas.github.io/normalize.css)
+* [AppleAndOrange](https://github.com/Artguiar/HackerRank-Practice-Problem-Solving-Java-Script/tree/main/AppleAndOrange)
 * [Drum sound effects](https://github.com/wesbos/JavaScript30)
 * [Digital 7 font](https://www.dafont.com/digital-7.font)
 * [Google Fonts](https://fonts.google.com)
