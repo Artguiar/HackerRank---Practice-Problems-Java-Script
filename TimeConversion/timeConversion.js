@@ -13,6 +13,45 @@ Ou seja, o desafio pede para implementar uma função que recebe uma string no f
 
 */
 
+
+
+function timeConversion(s) {
+    let hours = parseInt(s.substring(0, 2));
+    let minutes = s.substring(3, 5);
+    let seconds = s.substring(6, 8);
+    let ampm = s.substring(8, 10);
+
+    if (ampm === "PM" && hours !== 12) {
+        hours += 12;
+    }
+    if (ampm === "AM" && hours === 12) {
+        hours = 0;
+    }
+
+    let result = hours.toString().padStart(2, "0") + ":" + minutes + ":" + seconds;
+    return result;
+}
+    console.log(timeConversion("07:05:45PM"))
+    
+
+/* Explicação do Codigo - 
+
+   A função usa o método substring para dividir a string de entrada em suas partes
+   (horas, minutos, segundos e AM/PM) e o método parseInt para converter a string 
+   de horas em um número inteiro.
+
+   Depois disso, verifica-se se é PM e se as horas não são 12, se for, adiciona 12 horas, se
+   for AM e horas são 12, zera as horas.
+
+   Por fim, usa-se o método toString().padStart(2, "0") para garantir que as horas tenham sempre
+   dois dígitos (caso sejam menores que 10) e o método + para concatenar as partes de volta em uma
+   única string.
+
+*/
+
+
+console.log('___________________________________________________')
+
 function timeConversion(s) {
     let [hours, minutes, seconds] = s.slice(0, -2).split(':')
     let ampm = s.slice(-2)
@@ -28,13 +67,13 @@ function timeConversion(s) {
 }
 // casos de testes -
 
-let input = "07:05:45PM";
+let input = "07:05:45AM";
 let expectedOutput = "19:05:45";
 let result = timeConversion(input);
 console.log(result === expectedOutput); // should print true
 
 
-/* Explicação do Codigo - 
+/* Explicação do Codigo refatorado - 
 
     Utilizei o método slice para dividir a string de entrada nas partes necessárias. O método slice(0, -2) retorna a string sem as
 últimas 2 letras (AM/PM) e o split(':') divide em array as partes.
