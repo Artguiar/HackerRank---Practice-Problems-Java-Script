@@ -11,7 +11,7 @@ Inspirado na preparção de certificações [Problem Solving](https://www.hacker
 
 ## Indice do Repósitório - 
 * [Min-MaxSum](https://github.com/Artguiar/HackerRank---Practice-Problems-Java-Script/tree/main/Mini-MaxSum)
-* [Sass](http://sass-lang.com)
+* [Time-Conversion](http://sass-lang.com)
 * [Webpack](https://webpack.js.org)
 * [Normalize.css](https://necolas.github.io/normalize.css)
 * [Drum sound effects](https://github.com/wesbos/JavaScript30)
